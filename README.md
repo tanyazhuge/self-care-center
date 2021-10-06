@@ -17,7 +17,7 @@ I build my application by starting to fill out all basic elements in HTML, then 
 - Chrome Developer Tools
 
 #### Instructions:
-In my project, the user need to select either affirmation or mantra option and press receive message button to display the message. If user does not select one of the two options and press receive message button, there would be an error message to remind the user to select one. The user can clear the message by pressing the Clear Message button and message will revert back to the image.  
+In my project, the user need to select either affirmation or mantra and press receive message button to display message. If user does not select one of the two options and press receive message button, there would be an error message to remind user to select. The user can clear the message by pressing the Clear Message button when the message is displayed. It will also change color if you hover your mouse in the message area!
 
 Please take a look at my application [here](https://tanyazhuge.github.io/self-care-center/)
 
